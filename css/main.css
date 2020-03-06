@@ -1,8 +1,7 @@
 body {
-    /* font-size: 50px; */
     display: block;
     text-align: center; 
-    margin-top: 250px;
+    margin-top: 200px;
 }
 
 #display {
@@ -29,6 +28,11 @@ button {
     border-radius: 7px;
     width: 75px;
     height: 80px;
+}
+
+button:hover {
+    background: white;
+    color: #A8A8A8;
 }
 
 button:hover {
